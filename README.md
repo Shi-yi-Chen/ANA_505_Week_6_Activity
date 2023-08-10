@@ -2,4 +2,4 @@
 Week 6 Activity: Algorithms 
 #SVM accuracy: 2.67%
 #K Means accuracy:
-#C50 accuracy: 33%
+#C50 accuracy: 95.6%
